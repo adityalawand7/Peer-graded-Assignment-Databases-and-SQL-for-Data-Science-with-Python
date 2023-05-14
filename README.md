@@ -11,6 +11,6 @@ Here I have used 3 datasets relating to Chicago state namely:
 <br>
 Steps I did:
   1. Download the datasets.
-  2. Load them into dataframes.
-  3. Load the dataframes into database by creating tables.
-I then performed various queries using SQLite to derive meaning full data.
+  3. Load them into dataframes.
+  4. Load the dataframes into database by creating tables.
+  5. I then performed various queries using SQLite to derive meaning full data.
